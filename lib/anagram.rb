@@ -12,4 +12,5 @@ class Anagram
         letters.sort == @word.sort
     end
   end
+
 end
